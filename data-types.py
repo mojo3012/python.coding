@@ -1,0 +1,7 @@
+name=input('Enter your name: ')
+height=input('Enter your height: ')
+age=input('Enter your age: ')
+grade=input('Enter your grade: ')
+city=input('Enter your city: ')
+coding=input('Do you know coding?(True/False): ')
+print(f'Hi {name}, you are {age} years old. You study in grade {grade}. You have a height of {height}. You live in {city}. You know coding {coding}')
