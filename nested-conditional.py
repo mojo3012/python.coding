@@ -24,3 +24,4 @@ if vehicle_choice=='2':
         print('You picked: Sedan')
         print('Seats=5')
         print('Best for: City travel')
+    input
